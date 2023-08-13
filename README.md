@@ -17,7 +17,7 @@ BERN Project is a decentralized application (dApp) that utilizes the Ethereum bl
 
 ## Introduction
 
-Welcome to the BERN Project repository! This project aims to showcase the potential of decentralized applications by combining the power of Ethereum, React.js, and Node.js. This is ToDo list project the operationperform like create, view, update and delete tasks.
+Welcome to the BERN Project repository! This project aims to showcase the potential of decentralized applications by combining the power of Ethereum, React.js, and Node.js. This is ToDo list project the operationper form like create, view, update and delete tasks.
 
 ## Installation
 
